@@ -1,2 +1,2 @@
 # computer_vision
-My step byt 
+My step-by-step journey while learning fundamentals of computer vision.
